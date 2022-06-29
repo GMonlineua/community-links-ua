@@ -19,5 +19,5 @@
 
 ## Інше
  - [D&D_UA контакти](https://telegra.ph/Ukrainsk%D1%96-rolov%D1%96-sp%D1%96lnoti-j-ne-t%D1%96lki-05-17) - ще більше посилань на україномовні ресурси.
- - [Всі необхідні книжки українською](https://www.dropbox.com/sh/jz0kuuyw5kfi37o/AAActEOXlejZOwsh9krA-gmBa?dl=0) - тут є старий фанатський переклад. Хоча чому старий, нового ж поки що немає... Але багато з якими термінами спільнота не згідна.
+ - [Всі необхідні книжки українською](https://www.dropbox.com/sh/jz0kuuyw5kfi37o/AAActEOXlejZOwsh9krA-gmBa?dl=0) - тут є старий фанатський (фактично не легальний) переклад. Хоча чому старий, нового ж поки що немає... Але багато з якими термінами спільнота не згідна.
  - [Мій голосарій](https://docs.google.com/spreadsheets/d/1OOY6HmanTmcQId_sroPn5PoPKIw-hz5rPllHMyVlo94/edit?usp=sharing) - тут є мій голосарій і за ним ведеться переклад модулів для Foundry VTT
